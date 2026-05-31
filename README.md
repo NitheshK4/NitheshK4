@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 Currently building intelligent applications with AI, Machine Learning, and Full Stack technologies<br><br>🚀 Passionate about transforming ideas into scalable, real-world solutions<br><br>🤝 Open to collaborating on AI, ML, Full Stack, and Open Source projects<br><br>🌱 Exploring Generative AI, Deep Learning, MLOps, and Modern Web Technologies<br><br>💬 Ask me about Python, AI, Machine Learning, Web Development, and Software Engineering<br><br>⚡ Fun fact: I enjoy solving complex problems and turning them into simple, impactful products
+**🔭 Currently building intelligent applications with AI, Machine Learning, and Full Stack technologies**
+
+**🚀 Passionate about transforming ideas into scalable, real-world solutions**
+
+**🤝 Open to collaborating on AI, ML, Full Stack, and Open Source projects**
+
+**🌱 Exploring Generative AI, Deep Learning, MLOps, and Modern Web Technologies**
+
+**💬 Ask me about Python, AI, Machine Learning, Web Development, and Software Engineering**
+
+**⚡ Fun fact: I enjoy solving complex problems and turning them into simple, impactful products**
 
 
 ## 🌐 Socials:
