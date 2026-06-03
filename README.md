@@ -27,3 +27,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+
+[![](https://komarev.com/ghpvc/?username=NitheshK4&icon=10&color=7)](https://visitcount.itsvg.in)
+
