@@ -28,5 +28,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-[![](https://komarev.com/ghpvc/?username=NitheshK4&icon=10&color=7)](https://visitcount.itsvg.in)
-
+<img src="https://komarev.com/ghpvc/?username=NitheshK4&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
