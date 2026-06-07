@@ -13,7 +13,26 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithesx._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithesh-kumar-sekar-nk/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/NitheshK) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/NitheshK7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nithesh0070) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitheshk236@gmail.com) 
+<p align="center">
+  <a href="https://instagram.com/nithesx._">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nithesh-kumar-sekar-nk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/NitheshK">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" />
+  </a>
+  <a href="https://reddit.com/user/NitheshK7">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
+  </a>
+  <a href="https://x.com/Nithesh0070">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+  <a href="mailto:nitheshk236@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
@@ -71,7 +90,9 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NitheshK4&theme=github-dark)](https://github.com/NitheshK4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="quote" /></p>
 
-
-<img src="https://komarev.com/ghpvc/?username=NitheshK4&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NitheshK4&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
