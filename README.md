@@ -56,9 +56,17 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=NitheshK4&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=holi&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NitheshK4&theme=holi&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NitheshK4&theme=github-dark)](https://github.com/NitheshK4)
 
