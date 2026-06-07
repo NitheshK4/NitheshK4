@@ -60,7 +60,7 @@
 ![](https://streak-stats.demolab.com/?user=NitheshK4&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NitheshK4&theme=github-dark)](https://github.com/NitheshK4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
