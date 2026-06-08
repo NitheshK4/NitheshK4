@@ -75,7 +75,8 @@
 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 </div>
-# 📊 GitHub Stats:
+
+##📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=holi&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
