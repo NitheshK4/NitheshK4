@@ -95,6 +95,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitheshK4&theme=github-dark" />
   </a>
 </p>
+
 ### ✍️ Random Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="quote" /></p>
