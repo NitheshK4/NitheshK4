@@ -34,7 +34,9 @@
       </ul>
     </td>
     <td width="35%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzV5eHF4ZzV5eHF4ZzV5eHF4ZzV5eHF4ZzV5eHF4ZzV5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="80%" alt="Funny Typing Cat" />
+      <a href="https://www.linkedin.com/in/nithesh-kumar-sekar-nk/">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzV5eHF4ZzV5eHF4ZzV5eHF4ZzV5eHF4ZzV5eHF4ZzV5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="80%" alt="Hacker Cat" title="Click to connect on LinkedIn!" />
+      </a>
     </td>
   </tr>
 </table>
