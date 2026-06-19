@@ -12,11 +12,6 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=NitheshK4&label=Profile%20Views&color=bb9af7&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=NitheshK4&label=Profile%20Views&color=bb9af7&style=flat" alt="profile views" />
-  </a>
-</p>
 
 ---
 
