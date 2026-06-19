@@ -6,12 +6,17 @@
   <em>AI & Full Stack Developer | Transforming ideas into scalable, real-world solutions 🚀</em>
 </p>
 
+<p align="center">
+  <a href="https://github.com/NitheshK4">
+    <img src="https://komarev.com/ghpvc/?username=NitheshK4&label=Profile%20Views&color=bb9af7&style=flat&v=1" alt="profile views" />
+  </a>
+</p>
+
 <div align="center">
   <a href="https://github.com/NitheshK4">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&center=true&vCenter=true&width=800&height=70&duration=3000&lines=Building+Intelligent+AI+%26+ML+Models;Engineering+Responsive+Frontend+Dashboards;Transforming+Ideas+Into+Reality&color=bb9af7" alt="Interactive Typing Banner" />
   </a>
 </div>
-
 
 ---
 
