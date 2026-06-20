@@ -114,7 +114,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NitheshK4&background=00000000&sideNums=ffffff&sideLabels=bb9af7&currStreakNum=ffffff&currStreakLabel=7aa2f7&ring=7aa2f7&fire=7aa2f7&hide_border=true" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=NitheshK4&background=1a1b26&sideNums=ffffff&sideLabels=bb9af7&currStreakNum=ffffff&currStreakLabel=7aa2f7&ring=7aa2f7&fire=7aa2f7&hide_border=false&border=7aa2f7" width="98%" />
 </div>
 
 <div align="center">
@@ -125,5 +125,5 @@
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=1a1b26&text_color=bb9af7&author_color=ffffff&border_color=bb9af7" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=00000000&quoteColor=bb9af7&authorColor=7aa2f7" alt="quote" />
 </p>
