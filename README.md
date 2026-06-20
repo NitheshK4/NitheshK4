@@ -109,23 +109,21 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=NitheshK4&bg_color=1a1b26&text_color=bb9af7&icon_color=7aa2f7&title_color=ffffff&border_color=bb9af7&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&bg_color=1a1b26&text_color=bb9af7&icon_color=7aa2f7&title_color=ffffff&border_color=bb9af7&show_icons=true&hide_border=false&layout=compact&include_all_commits=true" width="48%" />
 </div>
-<br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NitheshK4&theme=tokyonight&hide_border=false" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=NitheshK4&background=00000000&sideNums=ffffff&sideLabels=bb9af7&currStreakNum=ffffff&currStreakLabel=7aa2f7&ring=7aa2f7&fire=7aa2f7&hide_border=true" width="98%" />
 </div>
-<br>
+
 <div align="center">
   <a href="https://github.com/NitheshK4">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitheshK4&theme=tokyo-night" width="98%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitheshK4&bg_color=1a1b26&color=bb9af7&line=7aa2f7&point=ffffff&area=true&hide_border=false&border_color=bb9af7" width="98%" />
   </a>
 </div>
 
----
-
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=1a1b26&text_color=bb9af7&author_color=ffffff&border_color=bb9af7" alt="quote" />
 </p>
