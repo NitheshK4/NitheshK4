@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/NitheshK4">
-    <img src="https://komarev.com/ghpvc/?username=NitheshK4&label=Profile%20Views&color=bb9af7&style=flat&v=1" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=NitheshK4&label=Profile%20Views&color=bb9af7&style=flat&v=2" alt="profile views" />
   </a>
 </p>
 
@@ -106,15 +106,15 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=NitheshK4&bg_color=1a1b26&text_color=bb9af7&icon_color=7aa2f7&title_color=ffffff&border_color=bb9af7&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&bg_color=1a1b26&text_color=bb9af7&icon_color=7aa2f7&title_color=ffffff&border_color=bb9af7&show_icons=true&hide_border=false&layout=compact&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NitheshK4&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NitheshK4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NitheshK4&background=1a1b26&sideNums=ffffff&sideLabels=bb9af7&currStreakNum=ffffff&currStreakLabel=7aa2f7&ring=7aa2f7&fire=7aa2f7&hide_border=false&border=7aa2f7" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=NitheshK4&theme=dark&hide_border=false" width="98%" />
 </div>
 
 <div align="center">
