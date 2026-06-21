@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/NitheshK4">
-    <img src="https://komarev.com/ghpvc/?username=NitheshK4&label=Profile%20Views&color=bb9af7&style=flat&v=2" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=NitheshK4&label=Profile%20Views&color=bb9af7&style=flat&v=4" alt="profile views" />
   </a>
 </p>
 
@@ -109,21 +109,21 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NitheshK4&show_icons=true&include_all_commits=false&count_private=false&bg_color=1a1b26&title_color=bb9af7&text_color=7aa2f7&icon_color=7aa2f7&border_color=bb9af7"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NitheshK4&layout=compact&langs_count=7&bg_color=1a1b26&title_color=bb9af7&text_color=7aa2f7&icon_color=7aa2f7&border_color=bb9af7"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NitheshK4&show_icons=true&include_all_commits=false&count_private=false&bg_color=1a1b26&title_color=bb9af7&text_color=7aa2f7&icon_color=7aa2f7&border_color=bb9af7&cache_seconds=1800&v=4"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NitheshK4&layout=compact&langs_count=7&bg_color=1a1b26&title_color=bb9af7&text_color=7aa2f7&icon_color=7aa2f7&border_color=bb9af7&cache_seconds=1800&v=4"/>
 </div>
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=NitheshK4" alt="NitheshK4" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=NitheshK4&background=1a1b26&sideNums=ffffff&sideLabels=bb9af7&currStreakNum=ffffff&currStreakLabel=7aa2f7&ring=7aa2f7&fire=7aa2f7&hide_border=false&border=7aa2f7&v=4" alt="NitheshK4" />
 </p>
 
 <div align="center">
   <a href="https://github.com/NitheshK4">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitheshK4&bg_color=1a1b26&color=bb9af7&line=7aa2f7&point=ffffff&area=true&hide_border=false&border_color=bb9af7" width="98%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitheshK4&bg_color=1a1b26&color=bb9af7&line=7aa2f7&point=ffffff&area=true&hide_border=false&border_color=bb9af7&v=4" width="98%" />
   </a>
 </div>
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=00000000&quoteColor=bb9af7&authorColor=7aa2f7" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=00000000&quoteColor=bb9af7&authorColor=7aa2f7&v=4" alt="quote" />
 </p>
