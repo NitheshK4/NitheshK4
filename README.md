@@ -110,13 +110,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=merko&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=bear&hide_border=false&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=bear&hide_border=false&layout=compact"/>
 
-<br><br>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=NitheshK4&theme=merko&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=NitheshK4&theme=bear&hide_border=false"/>
 
 </div>
 </p>
