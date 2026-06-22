@@ -109,12 +109,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NitheshK4&show_icons=true&include_all_commits=false&count_private=false&bg_color=1a1b26&title_color=bb9af7&text_color=7aa2f7&icon_color=7aa2f7&border_color=bb9af7&cache_seconds=1800&v=4"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NitheshK4&layout=compact&langs_count=7&bg_color=1a1b26&title_color=bb9af7&text_color=7aa2f7&icon_color=7aa2f7&border_color=bb9af7&cache_seconds=1800&v=4"/>
-</div>
 
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=NitheshK4&background=1a1b26&sideNums=ffffff&sideLabels=bb9af7&currStreakNum=ffffff&currStreakLabel=7aa2f7&ring=7aa2f7&fire=7aa2f7&hide_border=false&border=7aa2f7&v=4" alt="NitheshK4" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=merko&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=NitheshK4&theme=merko&hide_border=false" />
+
+</div>
 </p>
 
 <div align="center">
