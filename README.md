@@ -109,18 +109,19 @@
 ## 📊 GitHub Analytics
 
 
+# 📊 GitHub Stats
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=outrun&hide_border=false&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=NitheshK4&theme=outrun&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=NitheshK4&theme=outrun&hide_border=false" />
 
 </div>
-</p>
 
 <div align="center">
   <a href="https://github.com/NitheshK4">
