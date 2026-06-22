@@ -109,8 +109,6 @@
 ## 📊 GitHub Analytics
 
 
-# 📊 GitHub Stats
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=outrun&hide_border=false&include_all_commits=true&count_private=true" />
