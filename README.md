@@ -111,9 +111,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=outrun&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=outrun&hide_border=false&include_all_commits=false&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=outrun&hide_border=false&layout=compact" />
 
 <br/>
 
