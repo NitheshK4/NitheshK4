@@ -108,16 +108,17 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NitheshK4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitheshK4&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=NitheshK4&theme=outrun&hide_border=false&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=NitheshK4&theme=outrun&hide_border=false" />
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NitheshK4&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NitheshK4&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
 </div>
 </p>
 
