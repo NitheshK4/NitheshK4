@@ -117,9 +117,7 @@
 
 <br/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=NitheshK4&theme=outrun&hide_border=false" />
-
-</div>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=NitheshK4&theme=outrun"/></div>
 
 <div align="center">
   <a href="https://github.com/NitheshK4">
