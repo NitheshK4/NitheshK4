@@ -8,7 +8,7 @@ Building intelligent AI systems that transform data into real-world solutions th
 - 🧠 Developing RAG systems, semantic search, and intelligent automation
 - 🔬 Exploring Machine Learning, Generative AI, and scalable AI architectures
 
-**Tech:** Python • Artificial Intelligence • Machine Learning • LLMs • RAG • Agentic AI • LangChain • LlamaIndex • PyTorch • TensorFlow • Scikit-learn • Vector Databases • Semantic Search • Prompt Engineering • Git
+**Tech:** Python • AI • Machine Learning • LLMs • RAG • Agentic AI • LangChain • LlamaIndex • PyTorch • TensorFlow • Scikit-learn • Git
 
 **Links**
 
