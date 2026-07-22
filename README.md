@@ -1,6 +1,6 @@
 # Nithesh Kumar
 
-### AI & Machine Learning Engineer
+### Artificial Intelligence & Machine Learning Engineer
 
 Building intelligent AI systems that transform data into real-world solutions through LLMs, RAG, and machine learning.
 
