@@ -15,4 +15,6 @@ Building intelligent AI systems that transform data into real-world solutions th
 [Portfolio](https://nitheshk4.github.io/Portfolio/) •
 [LinkedIn](https://www.linkedin.com/in/nithesh-kumar-sekar-nk/) •
 [Instagram](https://instagram.com/nithesx._) •
+[Leetcode](https://leetcode.com/u/Nithesh_007/)•
 [Email](mailto:nitheshk236@gmail.com)
+
